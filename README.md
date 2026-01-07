@@ -6,11 +6,17 @@ LAUNCH OPTIONS:
 
 INSTALLATION:
 1 - Download files from [release].
+
 2 - Move the file "cs2_video" to "C:\Program Files (x86)\Steam\userdata\"YourID"\730\local\cfg"
+
 3 - Move the contents of the archive to "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg". (for files: autoexec and binds)
-4. Launch CS2 and paste “exec autoexec” and “execbinds” into the console.
+
+4 - Launch CS2 and paste “exec autoexec” and “execbinds” into the console.
+   
 5 – Enjoy.
+
 _________________________________________________________________________________________________________
+
 
 # CS2-НАСТРОЙКИ
 Это мой .CFG и НАСТРОЙКИ из CS2. Чтоб не ПОТЕРЯТЬ/ПОДЕЛИТЬСЯ/ИЗМЕНИТЬСЯ в любой момент
