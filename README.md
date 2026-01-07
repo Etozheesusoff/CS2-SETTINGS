@@ -2,8 +2,11 @@
 This is my .CFG and SETTINGS from CS2. So as not to LOSE/SHARE/CHANGE at any time
 
 
+
 LAUNCH OPTIONS: 
+
 "-novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 300 +exec autoexec.cfg"
+
 
 
 INSTALLATION:
@@ -25,9 +28,11 @@ ________________________________________________________________________________
 Это мой .CFG и НАСТРОЙКИ из CS2. Чтоб не ПОТЕРЯТЬ/ПОДЕЛИТЬСЯ/ИЗМЕНИТЬСЯ в любой момент
 
 
+
 ПАРАМЕТРЫ ЗАПУСКА:
 
 "-novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 300 +exec autoexec.cfg"
+
 
 
 УСТАНОВКА:
