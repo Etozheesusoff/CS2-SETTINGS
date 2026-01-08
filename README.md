@@ -1,7 +1,3 @@
-**# CS2-SETTINGS**
-This is my .CFG and SETTINGS from CS2. So as not to LOSE/SHARE/CHANGE at any time
-
-
 
 **LAUNCH OPTIONS:**
 
@@ -21,11 +17,9 @@ This is my .CFG and SETTINGS from CS2. So as not to LOSE/SHARE/CHANGE at any tim
    
 5 – **Enjoy**.
 
+
+
 _________________________________________________________________________________________________________
-
-
-**# CS2-НАСТРОЙКИ**
-Это мой .CFG и НАСТРОЙКИ из CS2. Чтоб не ПОТЕРЯТЬ/ПОДЕЛИТЬСЯ/ИЗМЕНИТЬСЯ в любой момент
 
 
 
