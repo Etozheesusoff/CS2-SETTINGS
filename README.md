@@ -19,7 +19,7 @@ This is my .CFG and SETTINGS from CS2. So as not to LOSE/SHARE/CHANGE at any tim
 
 4 - Launch CS2 and paste **«`exec autoexec`»** and **«`exec binds`»** into the console.
    
-5 – Enjoy.
+5 – **Enjoy**.
 
 _________________________________________________________________________________________________________
 
