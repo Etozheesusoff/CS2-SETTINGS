@@ -17,7 +17,7 @@ This is my .CFG and SETTINGS from CS2. So as not to LOSE/SHARE/CHANGE at any tim
 
 3 - Move the contents of the archive to **"`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`"**. (for files: autoexec and binds)
 
-4 - Launch CS2 and paste “exec autoexec” and “exec binds” into the console.
+4 - Launch CS2 and paste **“`exec autoexec`”** and **“`exec binds`”** into the console.
    
 5 – Enjoy.
 
@@ -43,6 +43,6 @@ ________________________________________________________________________________
 
 3 - Переместите содержимое архива в **"`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`"**. (для файлов: autoexec и binds)
 
-4 - Запустите CS2 и вставьте в консоль **«exec autoexec» и «exec binds»**.
+4 - Запустите CS2 и вставьте в консоль **“`«exec autoexec»`“** и **“`«exec binds»`“**.
    
 5 – **Наслаждайтесь**.
